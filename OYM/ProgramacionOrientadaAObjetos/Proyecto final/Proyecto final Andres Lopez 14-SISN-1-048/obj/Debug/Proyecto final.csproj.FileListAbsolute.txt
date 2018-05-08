@@ -1,0 +1,7 @@
+C:\Users\alopez\source\repos\ConsoleApp1\Proyecto final\bin\Debug\ConsoleApp1.exe.config
+C:\Users\alopez\source\repos\ConsoleApp1\Proyecto final\bin\Debug\ConsoleApp1.exe
+C:\Users\alopez\source\repos\ConsoleApp1\Proyecto final\bin\Debug\ConsoleApp1.pdb
+C:\Users\alopez\source\repos\ConsoleApp1\Proyecto final\obj\Debug\Proyecto final.csprojResolveAssemblyReference.cache
+C:\Users\alopez\source\repos\ConsoleApp1\Proyecto final\obj\Debug\Proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\alopez\source\repos\ConsoleApp1\Proyecto final\obj\Debug\ConsoleApp1.exe
+C:\Users\alopez\source\repos\ConsoleApp1\Proyecto final\obj\Debug\ConsoleApp1.pdb
